@@ -1,0 +1,34 @@
+﻿  submit.cpp
+c:\users\siulo\documents\visual studio 2015\projects\csci3260_project\csci3260_project\interactive.h(168): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\siulo\documents\visual studio 2015\projects\csci3260_project\csci3260_project\interactive.h(169): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+submit.cpp(163): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+submit.cpp(165): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+submit.cpp(166): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+submit.cpp(169): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+submit.cpp(171): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+submit.cpp(172): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+submit.cpp(173): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+submit.cpp(233): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+submit.cpp(268): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+submit.cpp(307): warning C4312: 'type cast': conversion from 'GLsizei' to 'GLvoid *' of greater size
+submit.cpp(309): warning C4312: 'type cast': conversion from 'GLsizei' to 'GLvoid *' of greater size
+submit.cpp(311): warning C4312: 'type cast': conversion from 'GLsizei' to 'GLvoid *' of greater size
+submit.cpp(317): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+submit.cpp(348): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+submit.cpp(474): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+submit.cpp(479): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+submit.cpp(483): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+submit.cpp(487): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+submit.cpp(491): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+submit.cpp(492): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+submit.cpp(548): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+submit.cpp(593): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+submit.cpp(594): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+submit.cpp(689): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+  Generating code
+  53 of 596 functions ( 8.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CSCI3260_Project.vcxproj -> C:\Users\siulo\Documents\Visual Studio 2015\Projects\CSCI3260_Project\x64\Release\CSCI3260_Project.exe
+  CSCI3260_Project.vcxproj -> C:\Users\siulo\Documents\Visual Studio 2015\Projects\CSCI3260_Project\x64\Release\CSCI3260_Project.pdb (Full PDB)
